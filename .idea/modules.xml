@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/LightNovelLibrary.iml" filepath="$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/LightNovelLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/buildConfig/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/buildConfig/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/r/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/r/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/buildConfig/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/buildConfig/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/appcompat_v7/appcompat_v7.iml" filepath="$PROJECT_DIR$/eclipse-android-old/appcompat_v7/appcompat_v7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android/eclipse-android.iml" filepath="$PROJECT_DIR$/eclipse-android/eclipse-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studio-android/LightNovelLibrary/volley/src/main/main.iml" filepath="$PROJECT_DIR$/studio-android/LightNovelLibrary/volley/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studio-android/LightNovelLibrary/app/src/main/main1.iml" filepath="$PROJECT_DIR$/studio-android/LightNovelLibrary/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/eclipse-android-old/LightNovelLibrary/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/eclipse-android-old/appcompat_v7/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studio-android/LightNovelLibrary/volley/src/test/test.iml" filepath="$PROJECT_DIR$/studio-android/LightNovelLibrary/volley/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
